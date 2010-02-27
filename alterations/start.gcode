@@ -16,3 +16,4 @@ G92 Z0                         ;set z 0
 G1 F650
 G92 E0                         ;zero the extruded length
 ;start printing!
+G1 Z0.2 F30 ;Skeinforge doesn't adjust the Maximum Z Feedrate for the first layer, have to set it manually

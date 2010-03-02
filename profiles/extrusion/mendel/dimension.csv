@@ -4,5 +4,5 @@ WindowPosition	600+0
 WindowVisibilities
 Open File for Dimension	
 Activate Dimension	True
-Absolute Extrusion Distance	False
-Relative Extrusion Distance	True
+Absolute Extrusion Distance	True
+Relative Extrusion Distance	False
